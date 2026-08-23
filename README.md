@@ -135,6 +135,7 @@
 You can easily Verify this yourself from the MARIA codebase (starting from the line 809): https://github.com/hostmaria/mariacoin/blob/main/src/validation.cpp
 
 ====
+====
 
 <h3>LINKS</h3>
 <ul>
@@ -185,7 +186,8 @@ You can easily Verify this yourself from the MARIA codebase (starting from the l
   <li>CoinDataFlow: https://coindataflow.com/en/currency/maria</li>
 </ul>
 
-<h3>[Delisted] COIN DIRECTORY LISTINGS.. they don't care of coins when exchanges go down that have listed these coins = not enough live exchanges for a coin, and a coin is delisted:</h3>
+<h3>[Delisted] COIN DIRECTORY LISTINGS</h3>
+<p>.. they don't care of coins when exchanges go down that have listed these coins = not enough live exchanges for a coin, and a coin is delisted</p>
 <ul>
   <li>CoinGecko: https://www.coingecko.com/en/coins/maria</li>
 </ul>
@@ -203,29 +205,29 @@ You can easily Verify this yourself from the MARIA codebase (starting from the l
 <h3>EXCHANGES - where to buy & sell $MARIA</h3>
 
 <h4>DEX-Trade:</h4>
-Referral link for joining: https://ej.uz/dextrade
+<p>Referral link for joining: https://ej.uz/dextrade</p>
 <ul>
   <li>MARIA-BTC: https://dex-trade.com/spot/trading/MARIABTC</li>
   <li>MARIA-USDT: https://dex-trade.com/spot/trading/MARIAUSDT</li>
 </ul>
 
 <h4>FreiExchange (Norway)</h4>
-Country: Norway
+<p>Country: Norway</p>
 <ul>
   <li>MARIA-BTC: https://freiexchange.com/market/MARIA/BTC</li>
 </ul>
 
 <h4>Qutrade.io</h4>
-Notes: previously operated under the domain Exchange-Assets.Com
-Country: Ukraine
+<p>Notes: previously operated under the domain Exchange-Assets.Com</p>
+<p>Country: Ukraine</p>
 <ul>
   <li>MARIA/BTC: https://qutrade.io/en/?market=maria_btc</li>
   <li>MARIA/USDT: https://qutrade.io/en/?market=maria_usdt</li>
 </ul>
 
 <h4>StakeCube Trading Pairs</h4>
-Referral link for joining: https://ej.uz/stakecube)
-Warning: insolvent exchange
+<p>Referral link for joining: https://ej.uz/stakecube)</p>
+<p>Warning: insolvent exchange</p>
 <ul>
   <li>Maria/BTC: https://stakecube.net/app/exchange/maria_btc</li>
   <li>Maria/SCC: https://stakecube.net/app/exchange/maria_scc</li>
