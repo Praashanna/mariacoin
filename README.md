@@ -197,45 +197,53 @@ You can easily Verify this yourself from the MARIA codebase (starting from the l
   <li>Pecunia Platform: https://pecuniaplatform.io/coin-stats/maria</li>
 </ul>
 
-<hr>
-<h3>EXCHANGES - WHERE TO BUY & SELL $MARIA</h3>
+====
 
-<h4>DEX-Trade (referral link for joining: https://ej.uz/dextrade):</h4>
+<hr>
+<h3>EXCHANGES - where to buy & sell $MARIA</h3>
+
+<h4>DEX-Trade:</h4>
+Referral link for joining: https://ej.uz/dextrade
 <ul>
   <li>MARIA-BTC: https://dex-trade.com/spot/trading/MARIABTC</li>
   <li>MARIA-USDT: https://dex-trade.com/spot/trading/MARIAUSDT</li>
 </ul>
 
-
 <h4>FreiExchange (Norway)</h4>
+Country: Norway
 <ul>
   <li>MARIA-BTC: https://freiexchange.com/market/MARIA/BTC</li>
 </ul>
 
-<h4>Exchange-Assets.Com (Ukraine)</h4>
+<h4>Qutrade.io</h4>
+Notes: previously operated under the domain Exchange-Assets.Com
+Country: Ukraine
 <ul>
-  <li>MARIA/BTC: https://exchange-assets.com/en/?market=maria_btc</li>
-  <li>MARIA/USDT: https://exchange-assets.com/en/?market=maria_usdt</li>
+  <li>MARIA/BTC: https://qutrade.io/en/?market=maria_btc</li>
+  <li>MARIA/USDT: https://qutrade.io/en/?market=maria_usdt</li>
 </ul>
 
-<h4>StakeCube Trading Pairs (Warning: insolvent exchange)</h4>
-<p>(referral link for joining: https://ej.uz/stakecube)</p>
+<h4>StakeCube Trading Pairs</h4>
+Referral link for joining: https://ej.uz/stakecube)
+Warning: insolvent exchange
 <ul>
   <li>Maria/BTC: https://stakecube.net/app/exchange/maria_btc</li>
   <li>Maria/SCC: https://stakecube.net/app/exchange/maria_scc</li>
   <li>Maria/USDT: https://stakecube.net/app/exchange/maria_usdt</li>
 </ul>
 
-<hr>
+===
 
-<h3>Exchanges - dead</h3>
+<h3>Exchanges - Closed</h3>
 <h4>FinexBox</h4>
 <ul>
   <li>MARIA-BTC: https://www.finexbox.com/market/pair/MARIA-BTC.html</li>
   <li>MARIA-ETH: https://www.finexbox.com/market/pair/MARIA-ETH.html</li>
 </ul>
 
-<h4>SnowFlakeX - founder Kevin Onbekend, a Dutch scammer - small time criminal: https://www.maria.zone/threads/snowflakex-seems-to-be-gone-was-it-all-a-scam.139/</h4>
+<h3>Exchanges - Scammers</h3>
+<h4>SnowFlakeX</h4>
+Notes: founder Kevin Onbekend, a Dutch scammer - small time criminal: https://www.maria.zone/threads/snowflakex-seems-to-be-gone-was-it-all-a-scam.139/
 <ul>
   <li>MARIA/BTC: https://snowflakex.net/exchange/MARIA/BTC</li>
   <li>MARIA/SNW: https://snowflakex.net/exchange/MARIA/SNW</li>
