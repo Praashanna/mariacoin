@@ -141,16 +141,29 @@ You can easily Verify this yourself from the MARIA codebase (starting from the l
   <li>Website: https://www.mariacoin.com</li>
   <li>Maria Core Wallets: https://github.com/hostmaria/mariacoin/releases</li>
   <li>Maria Web Wallet: https://www.mariawallet.com</li>
-  <li>Bootstrap: https://bootstrap.mariacoin.com/</li>
-  <li>Official Explorer: https://explorer.mariacoin.com</li>
-  <li>CoinExplorer Explorer: https://www.coinexplorer.net/MARIA/</li>
   <li>Maria Whitepaper: https://github.com/hostmaria/mariacoin/blob/main/whitepaper.md</li>
   <li>Bitcointalk Announcement: https://bitcointalk.org/index.php?topic=5413122</li>
 </ul>
 
-<h3>THE ONLY OFFICIAL DICSUSSION CHANNEL</h3>
+<h3>EXPLORERS</h3>
+<ul>
+  <li>Official Explorer: https://explorer.mariacoin.com</li>
+  <li>StakersForum Explorer: https://maria.stakersforum.com</li>
+  <li>CoinExplorer Explorer (maintained by StakeCube): https://www.coinexplorer.net/MARIA/</li>
+</ul>
+
+<h3>[inactive] SERVICES - to be restored</h3>
+<ul>
+  <li>[inactive] Bootstrap: https://bootstrap.mariacoin.com/</li>
+  <li>[inactive] Seeder 1: mariaseed.com (domain controlled by us)</li>
+  <li>[inactive] Seeder 1: mariaseed1.com (domain controlled by us)</li>
+  <li>[inactive] Seeder 1: mariaseed2.com (domain controlled by us)</li>
+</ul>
+
+<h3>OFFICIAL THREADS on FORUMS</h3>
 <ul>
   <li>Forum: https://maria.zone/index.php#c3</li>
+  <li>Forum: https://www.stakersforum.com/forums/maria-coin-forum/</li>
 </ul>
 	
 <h3>SOCIAL MEDIA:</h3>
@@ -165,15 +178,16 @@ You can easily Verify this yourself from the MARIA codebase (starting from the l
 
 <h3>COIN DIRECTORY LISTINGS:</h3>
 <ul>
-  <li>CoinGecko: https://www.coingecko.com/en/coins/maria</li>
   <li>CoinPaprika: https://coinpaprika.com/coin/maria-maria/</li>
   <li>NodeStats: https://nodestats.info/default.php?coin=maria</li>
   <li>LiveCoinWatch: https://www.livecoinwatch.com/price/Maria-MARIA</li>
-  <li>Nomics: https://nomics.com/assets/maria-maria</li>
   <li>Tokeninsight: https://tokeninsight.com/en/coins/maria/overview</li>
-  <li>CoinCost: https://coincost.net/en/currency/maria</li>
-  <li>CoinBuddy: https://coinbuddy.co/coins/maria</li>
   <li>CoinDataFlow: https://coindataflow.com/en/currency/maria</li>
+</ul>
+
+<h3>[Delisted] COIN DIRECTORY LISTINGS.. they don't care of coins when exchanges go down that have listed these coins = not enough live exchanges for a coin, and a coin is delisted:</h3>
+<ul>
+  <li>CoinGecko: https://www.coingecko.com/en/coins/maria</li>
 </ul>
 
 <h3>Links - MasterNode specific Directories:</h3>
@@ -181,7 +195,6 @@ You can easily Verify this yourself from the MARIA codebase (starting from the l
   <li>Masternodes Online: https://masternodes.online/currencies/MARIA/</li>
   <li>Node Stats: https://nodestats.info/default.php?coin=maria</li>
   <li>Pecunia Platform: https://pecuniaplatform.io/coin-stats/maria</li>
-  <li>Masternodes.biz: https://masternodes.biz/cryptocurrency/MARIA</li>
 </ul>
 
 <hr>
@@ -193,18 +206,6 @@ You can easily Verify this yourself from the MARIA codebase (starting from the l
   <li>MARIA-USDT: https://dex-trade.com/spot/trading/MARIAUSDT</li>
 </ul>
 
-
-<h4>FinexBox (referral link for joining: https://ej.uz/finexbox):</h4>
-<ul>
-  <li>MARIA-BTC: https://www.finexbox.com/market/pair/MARIA-BTC.html</li>
-  <li>MARIA-ETH: https://www.finexbox.com/market/pair/MARIA-ETH.html</li>
-</ul>
-
-<h4>XeggeX (referral link for joining: https://ej.uz/xeggex):</h4>
-<ul>
-  <li>MARIA-BTC: https://xeggex.com/market/MARIA_BTC</li>
-  <li>MARIA-LTC: https://xeggex.com/market/MARIA_LTC</li>
-</ul>
 
 <h4>FreiExchange (Norway)</h4>
 <ul>
@@ -223,6 +224,31 @@ You can easily Verify this yourself from the MARIA codebase (starting from the l
   <li>Maria/BTC: https://stakecube.net/app/exchange/maria_btc</li>
   <li>Maria/SCC: https://stakecube.net/app/exchange/maria_scc</li>
   <li>Maria/USDT: https://stakecube.net/app/exchange/maria_usdt</li>
+</ul>
+
+<hr>
+
+<h3>Exchanges - dead</h3>
+<h4>FinexBox</h4>
+<ul>
+  <li>MARIA-BTC: https://www.finexbox.com/market/pair/MARIA-BTC.html</li>
+  <li>MARIA-ETH: https://www.finexbox.com/market/pair/MARIA-ETH.html</li>
+</ul>
+
+<h4>SnowFlakeX - founder Kevin Onbekend, a Dutch scammer - small time criminal: https://www.maria.zone/threads/snowflakex-seems-to-be-gone-was-it-all-a-scam.139/</h4>
+<ul>
+  <li>MARIA/BTC: https://snowflakex.net/exchange/MARIA/BTC</li>
+  <li>MARIA/SNW: https://snowflakex.net/exchange/MARIA/SNW</li>
+  <li>MARIA/USDT: https://snowflakex.net/exchange/MARIA/USDT</li>
+</ul>
+
+<hr>
+
+<h3>Exchanges - that have delisted $Maria</h3>
+<h4>XeggeX</h4>
+<ul>
+  <li>MARIA-BTC: https://xeggex.com/market/MARIA_BTC</li>
+  <li>MARIA-LTC: https://xeggex.com/market/MARIA_LTC</li>
 </ul>
 
 <hr>
